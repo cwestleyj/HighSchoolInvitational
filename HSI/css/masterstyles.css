@@ -70,3 +70,9 @@ iframe {
 .discord {
   color: black;
 }
+.navbar {
+  border-radius:0px!important;
+}
+i{
+  padding:1rem;
+}
